@@ -7,7 +7,7 @@ Real-time speech-to-speech language translation using:
 - TTS (Text to Speech)
 
 ## Run in Colab
-Upload `notebooks/speech_to_speech_colab_.ipynb` to Google Colab and run all cells.
+Upload `https://colab.research.google.com/drive/1-s7I_QNzjSW60f2PRKQYxN3LJoMyL4MA?usp=sharing` to Google Colab and run all cells.
 
 ## Structure
 - notebooks/ → Experiments & demos
